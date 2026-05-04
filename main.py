@@ -28,3 +28,6 @@ plt.show()
 # Print previsões
 for dia, valor in zip(dias_futuros, previsao):
     print(f"Dia {dia[0]} -> Preço previsto: {valor:.2f}")
+    print("\nModelo treinado com sucesso!")
+print(f"Coeficiente angular: {modelo.coef_[0]:.2f}")
+print(f"Intercepto: {modelo.intercept_:.2f}")
