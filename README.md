@@ -1,18 +1,25 @@
 # 🌽 Previsão de Preço de Commodities com Machine Learning
 
-Projeto desenvolvido em Python com o objetivo de prever o preço do milho ao longo do tempo utilizando regressão linear.
+Este projeto utiliza um modelo de regressão linear para prever o preço do milho ao longo do tempo, simulando um cenário de análise de dados no agronegócio.
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias utilizadas
 - Python
 - Scikit-learn
-- Matplotlib
 - Numpy
+- Matplotlib
 
-## 📊 Descrição
-O modelo foi treinado com dados simulados e realiza previsões de valores futuros com base em tendências identificadas.
+## 📊 Metodologia
+O modelo foi treinado com dados simulados representando a evolução do preço do milho em função do tempo.  
+A regressão linear foi utilizada para identificar padrões e realizar previsões de valores futuros.
 
-## 🎯 Objetivo
-Aplicar conceitos de Inteligência Artificial e análise de dados em um contexto relacionado ao agronegócio.
+## 📈 Resultados
+O modelo conseguiu identificar a tendência dos dados e gerar previsões coerentes, apresentadas graficamente para facilitar a interpretação.
 
-## 📈 Resultado
-O projeto gera previsões e apresenta visualizações gráficas para análise dos dados.
+## 🎯 Aplicação
+Esse tipo de abordagem pode ser aplicado em:
+- Previsão de preços de commodities agrícolas
+- Análise de mercado
+- Apoio à tomada de decisão no agronegócio
+
+## 📌 Autor
+Kauã Silva de Jesus
